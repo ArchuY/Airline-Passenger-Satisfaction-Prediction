@@ -79,6 +79,6 @@ Description about each columns
 
 **Conclusion**
 
-From above observation we concluded that in comparision to other models Random forest works more better.
-But after using hyperparameter tunning and feature importance to train the all 6 models, we concluded that the boosting model works much better than other models
+From observation we concluded that in comparision to other models Random forest works more better.
+But after using hyperparameter tunning and feature importance to train the all models, we concluded that the boosting model works much better than other models
 XGBOOST works better than Random Forest.
