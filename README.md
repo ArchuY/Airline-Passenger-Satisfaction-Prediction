@@ -16,15 +16,15 @@ airline passengers are satisfied or neutral_ or_dissatisfaction
 
 **Steps:**
 
-> Perform EDA (Data Analysis,Data Visualization, Data Cleaning) to understand the data and to clean the dataset for further process
+- Perform EDA (Data Analysis,Data Visualization, Data Cleaning) to understand the data and to clean the dataset for further process
 
-> Train the classification model
+- Train the classification model
 
-> Perform Prediction
+- Perform Prediction
 
-> Model Evaluation
+- Model Evaluation
 
-> Conclusion
+- Conclusion
 
 **Dataset:**
 
