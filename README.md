@@ -9,19 +9,28 @@ the airline passenger satisfaction level and predict the passenger's satisfactio
 airline passengers are satisfied or neutral_ or_dissatisfaction
 
 **Objective:**
+
 > To identify the factors that are highly correlated to a satisfied (or dissatisfied) passenger.
+
 > To predict passenger satisfaction
 
 **Steps:**
+
 > Perform EDA (Data Analysis,Data Visualization, Data Cleaning) to understand the data and to clean the dataset for further process
+
 > Train the classification model
+
 > Perform Prediction
+
 > Model Evaluation
+
 > Conclusion
 
 **Dataset:**
+
 This dataset contains an airline passenger satisfaction survey, having 103,904 rows and 25 columns in train dataset and 25,976 rows and 25 columns in test dataset
 Description about each columns
+
 > Gender: Gender of the passengers (Female, Male)
 
 > Customer Type: The customer type (Loyal customer, disloyal customer)
